@@ -1,4 +1,4 @@
-# Amazon-Web-Scraping
+# Amazon Web Scraping
 
 Scrapes the **best-selling smartphones** list from [Amazon.in Best Sellers](https://www.amazon.in/gp/bestsellers/electronics/1805560031) with Python, and saves the results to CSV.
 
